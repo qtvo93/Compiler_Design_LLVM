@@ -1,0 +1,12 @@
+// 5 + 4*3 + 2;
+// 7 - 2*4 - 5/7;
+if;
+else;
+while;
+for;
+sum;
+series_sum;
+for;
+len;
+int  mint_idx=1;
+
